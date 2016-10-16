@@ -212,8 +212,13 @@ html,body {
 }
 
 #head .head_menu .logo{
+<<<<<<< HEAD
   height: 57px;
   width:57px;
+=======
+  height: 56px;
+  width:56px;
+>>>>>>> refs/remotes/origin/cyn
   background-color: #ff6700;
   float: left;
   margin-top: 22px;
